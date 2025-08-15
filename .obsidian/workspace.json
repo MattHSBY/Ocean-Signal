@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d051f7c284bc4362",
+        "id": "8c95e71ec9968141",
         "type": "tabs",
         "children": [
           {
-            "id": "f8f3d9779976ea3d",
+            "id": "9e834c5ed1d72e4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/C Sharp/Reference Type.md",
+                "file": "General/C Sharp/Action.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reference Type"
+              "title": "Action"
             }
           }
         ]
@@ -73,19 +73,8 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "bf88da15b3344658",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,47 +180,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8f3d9779976ea3d",
+  "active": "9e834c5ed1d72e4a",
   "lastOpenFiles": [
-    "General/C Sharp/Value Type.md",
-    "General/C Sharp/Reference Type.md",
-    "General/C Sharp/Func.md",
-    "General/C++/Reference.md",
-    "General/C Sharp/Helpful functions/Slice.md",
-    "General/C Sharp/Lambda expression.md",
-    "Excalidraw/Drawing 2025-08-11 10.12.11.excalidraw.md",
-    "General/C Sharp/Record.md",
-    "General/C Sharp/Action.md",
-    "General/C Sharp/Stack.md",
-    "General/C Sharp/StackFrame.md",
-    "General/C Sharp/StackTrace.md",
-    "General/C Sharp/System/System.md",
-    "General/C Sharp/System/Diagnostics/Diagnostics.md",
-    "General/C Sharp/Heap.md",
-    "General/C Sharp/Reference assembly.md",
-    "General/General knowledge/.md",
-    "General/General knowledge/General knowledge.md",
-    "General/General knowledge",
-    "General/Untitled.md",
-    "General/C Sharp/Helpful functions/Helpful functions.md",
-    "General/C Sharp/Compiler.md",
-    "General/C Sharp/Helpful functions",
-    "General/C Sharp/Type.md",
-    "LearnTechApprenticeship/Core/Command words and professional writing.md",
-    "LearnTechApprenticeship/Core/Core.md",
-    "LearnTechApprenticeship/Core",
+    "Standards and Information/Technical Knowledge/LFSR/Maximum length sequence.md",
+    "Standards and Information/Technical Knowledge/LFSR/Linear Feedback Shift Register.md",
+    "Standards and Information/Technical Knowledge/LFSR/Galois Field.md",
+    "Standards and Information/Technical Knowledge/LFSR/Feedback Polynomial.md",
+    "Standards and Information/Specifications/T-018.md",
+    "Standards and Information/Ocean Signal/Setting up SSH Keys for Git Authentication with Bitbucket.md",
+    "Standards and Information/Ocean Signal/Production Tools Release Procedure.md",
+    "Standards and Information/Ocean Signal/Printing to the Zebra Printers.md",
+    "Standards and Information/Ocean Signal/PlantUML_Language_Reference_Guide_en.pdf",
+    "Standards and Information/Ocean Signal/Ocean Signal Coding Style Guide.md",
+    "Standards and Information/Ocean Signal/Clean Code.md",
+    "Standards and Information/Ocean Signal/Beacon Firmware Release Procedure.md",
+    "Standards and Information/Ocean Signal/Using Regular Expressions To Parse Input/Using Regular Expressions and Explicit Captures to Parse Input.md",
+    "Standards and Information/Ocean Signal/Using Regular Expressions To Parse Input/images/RakonFileList.png",
+    "Standards and Information/Ocean Signal/Production Tools Databases/Final Test Databases.md",
+    "General/webdev research/webdev research.md",
+    "Vault.md",
+    "Testing/Testing.md",
+    "Standards and Information/Technical Knowledge/Technical Knowledge.md",
+    "Standards and Information/Standards and Information.md",
+    "Standards and Information/Specifications/Specifications.md",
+    "Standards and Information/Technical Knowledge/Phase-Shift Keying/Phase-Shift Keying.md",
+    "Standards and Information/Ocean Signal/Ocean Signal.md",
+    "Standards and Information/Message Types/Message Types.md",
+    "Standards and Information/Technical Knowledge/LFSR/LFSR.md",
     "LearnTechApprenticeship/LearnTechApprenticeship.md",
-    "General/Coding Practice/Magic Number.md",
+    "General/webdev research/javascript/javascript.md",
+    "General/C Sharp/Helpful functions/Helpful functions.md",
+    "General/General knowledge",
+    "General/C Sharp/Helpful functions",
+    "LearnTechApprenticeship/Core",
     "General/Coding Practice",
     "General/S200 Packing Station",
     "Standards and Information/Ocean Signal/~$mantic Logging for .NET Applications.docx",
-    "Standards and Information/Ocean Signal/PlantUML_Language_Reference_Guide_en.pdf",
     "Standards and Information/Ocean Signal/Summary of Classic Mistakes in Software Development Projects.pdn",
     "Standards and Information/Ocean Signal/Semantic Logging for .NET Applications.docx",
     "Standards and Information/Ocean Signal/Using Regular Expressions To Parse Input/images/SimpleNamedCaptureExample.png",
     "Standards and Information/Ocean Signal/Using Regular Expressions To Parse Input/images/Regex-Match-NamedCapture.png",
     "Standards and Information/Ocean Signal/Using Regular Expressions To Parse Input/images/Regex-Match-Implicit.png",
-    "Standards and Information/Ocean Signal/Using Regular Expressions To Parse Input/images/RakonFileList.png",
     "Standards and Information/Ocean Signal/Using Regular Expressions To Parse Input/images",
     "Standards and Information/Ocean Signal/Solving the Windows Forms Cross-Thread Update Problem/MainView.png.png",
     "Standards and Information/Ocean Signal/Installing and Using Visual Studio/VS-Sync-Settings.png",

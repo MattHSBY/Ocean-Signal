@@ -1,0 +1,63 @@
+---
+title: "Installing and Using Visual Studio 2022 Professional Edition"
+author: Tim Long
+date: July 9, 2024
+output: word_document
+---
+
+# Installing and Using Visual Studio 2022 Professional Edition
+
+In order to develop .NET applications, Visual Studio can be used. The current licensed edition is Visual Studio 2022 Professional, hereinafter referred to as _VS2022_.
+
+## Platform Compatibility
+
+Visual Studio 2022 supports Windows 7 through Windows 11, and .NET Framework 4.6.2 through .NET 8.0.
+
+## Installation and Configuration
+
+Note: Visual Studio is not the only way to develop .NET applications, but assuming that is the route chosen, then this document details how to install and configure it for use at Ocean Signal.
+
+Proceed as follows:
+
+1. From a DOS or PowerShell command prompt, enter: `winget install Microsoft.VisualStudio.2022.Professional`. This will perform a number of steps:
+
+   - download and install the Visual Studio Installer
+   - Install a stock default install of VS2022, which we will customise in the next step.
+
+2. Once installation is complete, re-run the Visual Studio Installer which will now be available on the Windows start menu  
+![Visual Studio Installer](StartMenu-VS-Installer.png)
+
+3. The installer will show your already-installed instance of VS2022. Pull down the `More` button and select `Import configuration`.
+![More options](VSInstaller-MoreButton.png)
+![Customising the installation](VSInstaller-Import.png)
+
+4. Select the file `Ocean Signal Standard Install VS2022.vsconfig` which should be located in the same folder as this document.
+
+5. Click `Review details` and you will have an opportunity to review the selected components and add/remove any as necessary. It is recommended to start with the default set unless there is a compelling reason otherwise. The default selection contains everything necessary to develop C# desktop applications .NET Framework 4.6 through .NET 8.0 and targetting Windows 7 through Windows 11.
+
+It does NOT install tools for mobile development, web development, Windows Azure cloud services, Python, F#, Visual Basic, Game development, Machine Learning tools, etc. 
+
+It must be expected that developers will have different needs and will therefore need to install additional components so this should not be regarded as an exclusive configuration, however it is best to start off with the known-good standard configuration. Additional components can be added later on a 'as-needed' basis.
+
+When happy, click the `Modify` button to apply the configuration.
+![Commit the Configuration](VSInstaller-CommitConfiguration.png)
+
+### Settings Sync
+
+For the best experience, make sure to sign in with your Ocean Signal Microsoft 365 credentials. Amongst other things, this will sync your settings across computers and can be very handy if for any reason you need to reinstall or use a different computer.
+![Settings Sync](VS-Sync-Settings.png)
+
+## Targetting Projects for Maximum Longevity
+
+For new projects with no backward-compatibility restrictions, it is recommended to target the latest released long-term support (LTS) version of .NET. At the time of writing that is .NET 8.0. (.NET 9.0 is in late beta but will not be a LTS version so is best avoided).
+
+For projects that must target older versions of .NET (e.g. for driver compatibility), every attempt should be made to use the latest version possible in order to stay within the support lifecycle for as long as possible. FOr .NET Framework projects, at the time of writing, that is `.NET Framework 4.8.1` and that is unlikely to change. For .NET Core projects the oldest supportable version is currently .NET 6.0 but this will alamost always be upgradeable to .NET 8.0
+
+## Git Integration
+
+Note: Visual Studio has good Git integration which rather convenient. BitBucket requires use of SSH private/public key pairs so Git may require some additional configuration for this to work. If this is the case, please see [this related document][git-ssh]. Once Git is thus configured, it should work for _all_ git integrations including Visual Studio, VS-Code and from the command line. If you are using SourceTree, then be aware that it uses a non-standard way of managing the SSH keys that will not work with other integrations or the command line.
+
+You may wish to open the Git Changes panel and keep that docked near your Solution Browser panel:
+![alt text](VS-Git-Changes-Panel.png)
+
+[git-ssh]: https://acrartex1.sharepoint.com/sites/OceanSignalSoftware/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FOceanSignalSoftware%2FShared%20Documents%2FSoftware%20Engineering%20Patterns%20and%20Practices%2FSetting%20up%20SSH%20Keys%20for%20Git%20Authentication%20with%20Bitbucket%2Emd&parent=%2Fsites%2FOceanSignalSoftware%2FShared%20Documents%2FSoftware%20Engineering%20Patterns%20and%20Practices "Setting up SSH keys for authentication with BitBucket"

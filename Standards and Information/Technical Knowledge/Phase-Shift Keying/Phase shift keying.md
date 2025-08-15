@@ -1,0 +1,1 @@
+Phase-shift keying (PSK) is a digital modulation process which conveys data by changing (modulating) the phase of a constant frequency carrier wave. This way, you can encode binary data into waves. 

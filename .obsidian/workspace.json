@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "130863c1868703d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d051f7c284bc4362",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8f3d9779976ea3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/C Sharp/Reference Type.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reference Type"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68bddd7797149993",
+    "type": "split",
+    "children": [
+      {
+        "id": "e30c0b5fdf4c00a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71e764c17a8fd80d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "acde8255212e03f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a30a50c26d78ab07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "bf88da15b3344658",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.51103591918945
+  },
+  "right": {
+    "id": "fb7c508aff9f3bb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b482e4bea6eed66d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b48d7e404fa8738",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "General/C Sharp/Value Type.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Value Type"
+            }
+          },
+          {
+            "id": "aff266a742e278fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "General/C Sharp/Value Type.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Value Type"
+            }
+          },
+          {
+            "id": "c07fbca98310c65e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d8b1d9628286a8f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "General/C Sharp/Value Type.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Value Type"
+            }
+          },
+          {
+            "id": "9acfbe8a9aa920c1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f8f3d9779976ea3d",
+  "lastOpenFiles": [
+    "General/C Sharp/Value Type.md",
+    "General/C Sharp/Reference Type.md",
+    "General/C Sharp/Func.md",
+    "General/C++/Reference.md",
+    "General/C Sharp/Helpful functions/Slice.md",
+    "General/C Sharp/Lambda expression.md",
+    "Excalidraw/Drawing 2025-08-11 10.12.11.excalidraw.md",
+    "General/C Sharp/Record.md",
+    "General/C Sharp/Action.md",
+    "General/C Sharp/Stack.md",
+    "General/C Sharp/StackFrame.md",
+    "General/C Sharp/StackTrace.md",
+    "General/C Sharp/System/System.md",
+    "General/C Sharp/System/Diagnostics/Diagnostics.md",
+    "General/C Sharp/Heap.md",
+    "General/C Sharp/Reference assembly.md",
+    "General/General knowledge/.md",
+    "General/General knowledge/General knowledge.md",
+    "General/General knowledge",
+    "General/Untitled.md",
+    "General/C Sharp/Helpful functions/Helpful functions.md",
+    "General/C Sharp/Compiler.md",
+    "General/C Sharp/Helpful functions",
+    "General/C Sharp/Type.md",
+    "LearnTechApprenticeship/Core/Command words and professional writing.md",
+    "LearnTechApprenticeship/Core/Core.md",
+    "LearnTechApprenticeship/Core",
+    "LearnTechApprenticeship/LearnTechApprenticeship.md",
+    "General/Coding Practice/Magic Number.md",
+    "General/Coding Practice",
+    "General/S200 Packing Station",
+    "Standards and Information/Ocean Signal/~$mantic Logging for .NET Applications.docx",
+    "Standards and Information/Ocean Signal/PlantUML_Language_Reference_Guide_en.pdf",
+    "Standards and Information/Ocean Signal/Summary of Classic Mistakes in Software Development Projects.pdn",
+    "Standards and Information/Ocean Signal/Semantic Logging for .NET Applications.docx",
+    "Standards and Information/Ocean Signal/Using Regular Expressions To Parse Input/images/SimpleNamedCaptureExample.png",
+    "Standards and Information/Ocean Signal/Using Regular Expressions To Parse Input/images/Regex-Match-NamedCapture.png",
+    "Standards and Information/Ocean Signal/Using Regular Expressions To Parse Input/images/Regex-Match-Implicit.png",
+    "Standards and Information/Ocean Signal/Using Regular Expressions To Parse Input/images/RakonFileList.png",
+    "Standards and Information/Ocean Signal/Using Regular Expressions To Parse Input/images",
+    "Standards and Information/Ocean Signal/Solving the Windows Forms Cross-Thread Update Problem/MainView.png.png",
+    "Standards and Information/Ocean Signal/Installing and Using Visual Studio/VS-Sync-Settings.png",
+    "Standards and Information/Ocean Signal/Installing and Using Visual Studio/VSInstaller-MoreButton.png",
+    "Standards and Information/Ocean Signal/Installing and Using Visual Studio/VSInstaller-Import.png",
+    "Standards and Information/Ocean Signal/Installing and Using Visual Studio/VSInstaller-CommitConfiguration.png",
+    "Standards and Information/Ocean Signal/Installing and Using Visual Studio/VS-Git-Changes-Panel.png",
+    "General/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}

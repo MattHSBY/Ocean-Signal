@@ -1,0 +1,1 @@
+A predicate is a defined [[Delegate]] type in .NET, it is basically a more specialised version of a [[Func]], where the return type is a boolean. This is used to define a set of criteria and determine whether the specified object meets those criteria.

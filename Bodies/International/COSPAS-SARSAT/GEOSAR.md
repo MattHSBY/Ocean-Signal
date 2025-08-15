@@ -1,0 +1,6 @@
+---
+sticker: emoji//1f6f0-fe0f
+---
+GEOSAR (Geostationary Search and Rescue) is a type of satellite system to detect and locate distress beacons. GEOSAR could refer to the general concept of a Geostationary Search and Rescue, or the actual network of satellites that are operating within that system. The system consists of multiple satellites working together, along with ground stations and mission control centers to process the signals.
+Because their geostationary orbit does not provide a relative motion between a distress beacon and a GEOSAR satellite, there is no opportunity to use the Doppler effect to calculate the location of a beacon. Therefore, the GEOSAR satellites only can relay a beacon's distress message. If the beacon is a model with a feature to report its location (e.g., from an on-board GPS receiver) then that location is relayed to SAR authorities. While the inability to independently locate a beacon is a drawback of GEOSAR satellites, those satellites have an advantage in that the present constellation well covers the entire Earth in real time, except for the polar regions.
+![[Pasted image 20250225130152.png]]

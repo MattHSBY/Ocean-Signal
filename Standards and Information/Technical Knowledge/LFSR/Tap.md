@@ -1,0 +1,2 @@
+A tap is the positions in a [[Linear Feedback Shift Register]] where the feedback is applied. For example, in the [[Feedback Polynomial]]: $$G(x) = x^{23} + x^{18} + 1$$
+The taps are at positions 23 and 18.

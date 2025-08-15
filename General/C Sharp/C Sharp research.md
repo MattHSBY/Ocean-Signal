@@ -1,0 +1,1 @@
+This folder is going to be research of C# coding, this will include general programming principles, but it will be in the scope of C# specifically, since that's what I use most of the time now.

@@ -1,0 +1,3 @@
+The stack is a region of memory that stores [[Value Type]]s, method call [[StackFrame]]s and local variables. It operates in a Last-In, First-Out (LIFO) manner - meaning the last item pushed onto the stack is the first one to be popped off.
+
+It might be important to note that every object directly stored by the stack is a [[StackFrame]], however, [[Value Type]] variables which are stored in stack memory are stored inside each [[StackFrame]] as that [[StackFrame]]'s local variables.

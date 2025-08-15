@@ -1,0 +1,1 @@
+An Action is a defined [[Delegate]] type in .NET which returns void and can take 0 or more input parameters. It is part of the `System` namespace and is commonly used for passing methods as parameters (like callbacks or event handlers).

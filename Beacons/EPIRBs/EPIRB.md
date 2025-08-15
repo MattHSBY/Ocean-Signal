@@ -1,0 +1,2 @@
+Emergency Position-Indicating Radio Beacons (EPIRBs) are a development of the ELT designed specifically for use on boats and ships, and basic models tend to be less expensive than ELTs. They typically use a water-sensing device which activates the beacon automatically when the beacon is submerged.
+![[Pasted image 20250225090134.png]]

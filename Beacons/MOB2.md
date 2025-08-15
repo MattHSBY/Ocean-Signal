@@ -1,0 +1,2 @@
+The rescueME MOB2 (Man Overboard) is developed by [[Ocean Signal LTD]]. Ocean Signal’s latest rescueME MOB2 combines both [[AIS]] and [[VHF]] [[DSC]] emergency technology in the latest [[AIS]] class M-compliant solution for the maritime market.
+The MOB2 is significantly smaller than competing products and fits inside inflatable lifejackets. It also boasts a longer operating life, automatic activation via an inflatable lifejacket, dual IR and White strobe lights, and [[NFC]] mobile app connectivity.

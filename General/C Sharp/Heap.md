@@ -1,0 +1,1 @@
+The heap is a region of memory used for dynamic allocation of objects during program execution. When you create an instance of a [[Reference Type]] (like a class object) using `new` that object is allocated on the "managed heap"

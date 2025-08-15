@@ -1,0 +1,2 @@
+A maximum length sequence (MLS) is a type of pseudo-random binary sequence.
+They are bit sequences generated using maximal [[Linear Feedback Shift Register]]s and are so called because they are periodic and reproduce every binary sequence that can be represented by the shift registers

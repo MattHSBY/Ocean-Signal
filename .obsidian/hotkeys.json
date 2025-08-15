@@ -1,0 +1,11 @@
+{
+  "editor:follow-link": [],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Enter"
+    }
+  ]
+}

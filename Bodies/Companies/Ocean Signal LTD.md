@@ -1,0 +1,1 @@
+Ocean Signal is a company dedicated to developing marine communication devices such as EPIRBs or MOB rescue beacons. Ocean Signal has operated within the [[ACR group]] since it was acquired in 2015.

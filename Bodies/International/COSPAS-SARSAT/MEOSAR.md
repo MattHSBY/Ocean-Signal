@@ -1,0 +1,4 @@
+---
+sticker: emoji//1f6f0-fe0f
+---
+The most recent space segment augmentation for [[COSPAS-SARSAT]] is MEOSAR. MEOSAR blends the advantages of the [[LEOSAR]] and [[GEOSAR]] systems, while avoiding their drawbacks. The MEOSAR system is becoming the dominant capability of [[COSPAS-SARSAT]]. In addition to the large number of satellites, the MEOSAR system benefits from relatively large satellite footprints and sufficient satellite motion relative to ta point on the ground to allow the use of Doppler measurements as part of the method of calculating a distress beacon's location. MEOSAR consists of SARR transponders aboard the following navigation-satellite constellations: the European Union's Galileo, Russia's Glonass, and the United States' Global Positioning System (GPS).

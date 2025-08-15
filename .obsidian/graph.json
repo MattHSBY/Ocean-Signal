@@ -1,0 +1,100 @@
+{
+  "collapse-filter": true,
+  "search": "-tag:#folder  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#folder  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Bodies  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:General  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:Testing  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Beacons  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Standards and Information/Technical Knowledge\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"Standards and Information/Common beacon information\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16748068
+      }
+    },
+    {
+      "query": "path:\"Standards and Information/Specifications\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:\"Standards and Information/Message Types\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"Standards and Information\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 621355
+      }
+    },
+    {
+      "query": "path:\"webdev research\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 3.75054545454545,
+  "lineSizeMultiplier": 2.02486518518519,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 2.55139146567718,
+  "linkStrength": 0.479109461966605,
+  "linkDistance": 500,
+  "scale": 0.43075768785693785,
+  "close": false
+}

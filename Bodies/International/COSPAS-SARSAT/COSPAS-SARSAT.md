@@ -1,0 +1,4 @@
+#folder 
+The international COSPAS-SARSAT Program is a satellite-aided search and rescue (SAR) initiative and intergovernmental organization. It is organized as a treaty-based, nonprofit, intergovernmental, humanitarian cooperative of 45 nations and agencies. It is dedicated to detecting and locating emergency locator beacons activated by persons, aircraft or vessels in distress, and forwarding this alert information to authorities that can take action for rescue. 
+
+The term COSPAS-SARSAT derives from COSPAS (transliterated Russian acronym meaning "Space System for the Search of Vessels in Distress"), and SARSAT (English acronym for "Search and Rescue Satellite-Aided Tracking").

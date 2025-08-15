@@ -1,0 +1,4 @@
+DSC (Digital Selective Calling) is a standard method of transmitting *predefined* messages via [[VHF]] (Also via MF and VF). In the event of a man-overboard emergency situation, the [[MOB2]] will continue to transmit the [[AIS]] distress messages as well as a [[GMDSS]] DSC distress alert that is sent to all ships and stations within range that have a DSC [[VHF]] Radio.
+
+With relation to [[MOB2]], the DSC is programmed with a unique [[MMSI]], starting with 972. Also, the [[MOB2]] uses [[VHF]] DSC via channel 70.
+The [[MOB2]] transmits DSC distress signals containing information such as [[MMSI]], [[GNSS]] position

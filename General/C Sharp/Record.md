@@ -1,0 +1,1 @@
+A record is used for encapsulating data within a program. It is a reference type 

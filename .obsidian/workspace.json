@@ -4,24 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "8c95e71ec9968141",
+        "id": "54fe8994cec05b40",
         "type": "tabs",
         "children": [
           {
-            "id": "9e834c5ed1d72e4a",
+            "id": "cf651795c1ecf061",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "General/C Sharp/Stack Memory.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Stack Memory"
+            }
+          },
+          {
+            "id": "80df19458ed515fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/C Sharp/Action.md",
+                "file": "General/C Sharp/Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Action"
+              "title": "Stack"
+            }
+          },
+          {
+            "id": "10be7fe1267931b4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,10 +196,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -180,8 +211,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e834c5ed1d72e4a",
+  "active": "10be7fe1267931b4",
   "lastOpenFiles": [
+    "Pasted image 20250815094715.png",
+    "_resources_/Pasted image 20250815093455.png",
+    "General/C Sharp/Stack Memory.canvas",
+    "General/C Sharp/ValueReferenceTypeStorage.canvas",
+    "General/C Sharp/Action.md",
     "Standards and Information/Technical Knowledge/LFSR/Maximum length sequence.md",
     "Standards and Information/Technical Knowledge/LFSR/Linear Feedback Shift Register.md",
     "Standards and Information/Technical Knowledge/LFSR/Galois Field.md",
@@ -208,8 +244,6 @@
     "Standards and Information/Message Types/Message Types.md",
     "Standards and Information/Technical Knowledge/LFSR/LFSR.md",
     "LearnTechApprenticeship/LearnTechApprenticeship.md",
-    "General/webdev research/javascript/javascript.md",
-    "General/C Sharp/Helpful functions/Helpful functions.md",
     "General/General knowledge",
     "General/C Sharp/Helpful functions",
     "LearnTechApprenticeship/Core",
@@ -227,8 +261,6 @@
     "Standards and Information/Ocean Signal/Installing and Using Visual Studio/VSInstaller-MoreButton.png",
     "Standards and Information/Ocean Signal/Installing and Using Visual Studio/VSInstaller-Import.png",
     "Standards and Information/Ocean Signal/Installing and Using Visual Studio/VSInstaller-CommitConfiguration.png",
-    "Standards and Information/Ocean Signal/Installing and Using Visual Studio/VS-Git-Changes-Panel.png",
-    "General/Untitled.canvas",
-    "Untitled.canvas"
+    "General/Untitled.canvas"
   ]
 }

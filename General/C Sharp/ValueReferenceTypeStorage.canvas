@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"dd9cb1830ffb3827","x":-820,"y":-580,"width":400,"height":400,"type":"file","file":"General/C Sharp/Value Type.md"},
+		{"id":"e7859204e21bce36","x":-820,"y":0,"width":400,"height":400,"type":"file","file":"General/C Sharp/Reference Type.md"},
+		{"id":"053dc7839753ebdb","x":-745,"y":370,"width":245,"height":50,"type":"text","text":"Copied **BY REFERENCE.**"},
+		{"id":"594507831ea1469b","x":0,"y":-780,"width":400,"height":400,"type":"file","file":"General/C Sharp/Stack.md"},
+		{"id":"da36f344dd721334","x":-270,"y":-520,"width":140,"height":80,"type":"text","text":"**Local variable**"},
+		{"id":"d4b0d897862ee038","x":-745,"y":-210,"width":250,"height":50,"type":"text","text":"Copied **BY VALUE.**"},
+		{"id":"024d63ed3dce57d6","x":-120,"y":-280,"width":400,"height":400,"type":"file","file":"General/C Sharp/Heap.md"},
+		{"id":"61acd0f19bfa0812","x":-360,"y":-240,"width":160,"height":80,"type":"text","text":"**Field inside class**"}
+	],
+	"edges":[
+		{"id":"0c9029c1e571a5de","fromNode":"dd9cb1830ffb3827","fromSide":"right","toNode":"da36f344dd721334","toSide":"left"},
+		{"id":"e04817b541115884","fromNode":"da36f344dd721334","fromSide":"right","toNode":"594507831ea1469b","toSide":"left"},
+		{"id":"8f2bdb326d46e279","fromNode":"dd9cb1830ffb3827","fromSide":"right","toNode":"61acd0f19bfa0812","toSide":"top"},
+		{"id":"09a5d318daab5076","fromNode":"61acd0f19bfa0812","fromSide":"bottom","toNode":"024d63ed3dce57d6","toSide":"left"},
+		{"id":"06cb80ef50063cf6","fromNode":"e7859204e21bce36","fromSide":"right","toNode":"024d63ed3dce57d6","toSide":"bottom"}
+	]
+}

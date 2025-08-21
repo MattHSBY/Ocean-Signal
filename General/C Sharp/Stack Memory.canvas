@@ -1,6 +1,23 @@
 {
 	"nodes":[
-		{"id":"d2bb431219ae77be","x":-560,"y":-240,"width":400,"height":400,"type":"file","file":"General/C Sharp/Stack.md"}
+		{"id":"d2bb431219ae77be","type":"file","file":"General/C Sharp/Stack.md","x":-960,"y":-362,"width":400,"height":400},
+		{"id":"8db7ee0b65e2c3a2","x":-320,"y":82,"width":401,"height":78,"type":"file","file":"General/C Sharp/StackFrame.md"},
+		{"id":"1ec6c153c4bc51b8","type":"file","file":"General/C Sharp/StackFrame.md","x":-320,"y":-40,"width":401,"height":78},
+		{"id":"86a2a91b3f9636ec","type":"file","file":"General/C Sharp/StackFrame.md","x":-320,"y":-160,"width":401,"height":78},
+		{"id":"558d747502a32645","type":"file","file":"General/C Sharp/StackFrame.md","x":-320,"y":-279,"width":401,"height":78},
+		{"id":"b3bc80f4de163e0e","type":"file","file":"General/C Sharp/StackFrame.md","x":-320,"y":-401,"width":401,"height":78},
+		{"id":"495eb5516cf871c8","type":"file","file":"General/C Sharp/StackFrame.md","x":-320,"y":-521,"width":401,"height":78},
+		{"id":"8d42462971e26669","type":"text","text":"## First In, Last out","x":160,"y":220,"width":240,"height":60},
+		{"id":"3a37228156dcd1ae","x":160,"y":-700,"width":240,"height":60,"type":"text","text":"## Last in, First out"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"a53caaa54dd484fa","fromNode":"8db7ee0b65e2c3a2","fromSide":"left","toNode":"d2bb431219ae77be","toSide":"right"},
+		{"id":"5937c2f879491a0b","fromNode":"1ec6c153c4bc51b8","fromSide":"left","toNode":"d2bb431219ae77be","toSide":"right"},
+		{"id":"91ea77c7d0a05949","fromNode":"86a2a91b3f9636ec","fromSide":"left","toNode":"d2bb431219ae77be","toSide":"right"},
+		{"id":"22dc2a7ba567ce93","fromNode":"558d747502a32645","fromSide":"left","toNode":"d2bb431219ae77be","toSide":"right"},
+		{"id":"c45ea68db55af80a","fromNode":"b3bc80f4de163e0e","fromSide":"left","toNode":"d2bb431219ae77be","toSide":"right"},
+		{"id":"c5a2713aea20eec6","fromNode":"495eb5516cf871c8","fromSide":"left","toNode":"d2bb431219ae77be","toSide":"right"},
+		{"id":"5fc1f15778f58f5c","fromNode":"495eb5516cf871c8","fromSide":"top","toNode":"3a37228156dcd1ae","toSide":"left"},
+		{"id":"f31d36d76e3ef32f","fromNode":"8db7ee0b65e2c3a2","fromSide":"bottom","toNode":"8d42462971e26669","toSide":"left"}
+	]
 }
